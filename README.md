@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio! This site is designed to showcase my
 
 ## 🌐 Live Demo
 
-**Check it out here:** [https://stirring-pithivier-bd5233.netlify.app](#) <!-- Replace with actual deployment link -->
+**Check it out here:** https://stirring-pithivier-bd5233.netlify.app <!-- Replace with actual deployment link -->
 
 ---
 
